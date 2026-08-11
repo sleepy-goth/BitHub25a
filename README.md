@@ -1,3 +1,5 @@
+
+
 # BitHub25a - Appunti Universitari
 [![Licenza: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licenza-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 Repository di condivisione appunti del Corso di Laurea in Informatica - Università degli Studi di Roma Tor Vergata.
@@ -49,7 +51,7 @@ Puoi anche sfogliare i `.md` direttamente su GitHub, ma wikilink, alcuni callout
 
 ---
 ## Contribuire
-Pull request e segnalazioni tramite Issues sono benvenute; ogni contributo è revisionato prima dell'accettazione. Leggi **[CONTRIBUTING.md](CONTRIBUTING.md)** per setup, struttura, naming e convenzioni di commit.
+Pull request e segnalazioni tramite Issues sono benvenute; ogni contributo è revisionato prima dell'accettazione. **Le PR vanno indirizzate al branch `release`**. Leggi **[CONTRIBUTING.md](CONTRIBUTING.md)** per setup, struttura, naming e convenzioni di commit.
 
 ---
 ## Licenza
